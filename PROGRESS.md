@@ -2,10 +2,10 @@
 
 Check off each item manually after you complete the task.
 
-- [x] A. Fork the upstream repo
-- [x] B. Clone locally
-- [x] C. Create a new branch
-- [x] D. Make a commit
+- [ ] A. Fork the upstream repo
+- [ ] B. Clone locally
+- [ ] C. Create a new branch
+- [ ] D. Make a commit
 - [ ] E. Push the branch
 - [ ] F. Change your first and last name in certificate section
 - [ ] G. Open a Pull Request
