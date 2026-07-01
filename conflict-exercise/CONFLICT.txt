@@ -1,2 +1,2 @@
 # Conflict exercise file
-COLOR=RED
+COLOR=GREEN
